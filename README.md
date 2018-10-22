@@ -1,4 +1,5 @@
 # mycode
+# At the top of your README.md file, within your project description, add a sentence about wanting to learn how to version control projects with git
 tgoldmn@optonline.net github email address tgoldmn 
 # mycode (Project Title)
 
